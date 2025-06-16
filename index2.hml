@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Priyadarshini</h1>
+            <p>Frontend Developer </p>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello! I'm a passionate frontend developer with a knack for building elegant web experiences.</p>
+        </div>
+    </section>
+    <section id="projects" class="section">
+    <div class="container">
+        <h2>Projects</h2>
+        <div class="project-list">
+            <div class="project">
+                <h3>Online Shopping Website</h3>
+                <p>
+                    A fully responsive e-commerce platform that allows users to browse products, add items to a cart, and checkout securely.
+                </p>
+                <ul>
+                    <li>Modern UI built with HTML, CSS, and JavaScript</li>
+                    <li>Shopping cart functionality with dynamic price updates</li>
+                    <li>Product filtering, sorting, and search</li>
+                    <li>Responsive design for mobile and desktop</li>
+                </ul>
+                <p>
+                    🔗 <a href="https://yourprojectlink.com" target="_blank">Live Demo</a> |
+                    💻 <a href="https://github.com//online-shopping" target="_blank">GitHub Repo</a>
+                </p>
+            </div>
+            <!-- Add more projects below as needed -->
+        </div>
+    </div>
+</section>
+
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:you@example.com">priyadarshinichalla72@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/challa-priyadarshini-b44568353/">linkedin</a></p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Priyadarshini All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
